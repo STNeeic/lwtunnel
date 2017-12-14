@@ -111,6 +111,37 @@ static inline int __ipv4(struct __sk_buff *skb, int pkt_len)
   return BPF_OK;
 }
 
+#define SRC_MAC 0xa4a12c9f36a0
+#define DST_MAC 0x04ab2c9f36a0
+#define IFINDEX 3
+
+
+static inline int __ether(struct __sk_buff * skb) {
+  uint64_t src = SRC_MAC;
+  uint64_t dst = DST_MAC;
+  int ifindex = IFINDEX;
+
+  struct ethhdr eth;
+  int ret = bpf_skb_change_head(skb, 14, 0);
+  if(ret < 0)
+    {
+      printk("skb_change_head failed: %d\n", ret);
+      return ERROR_ACTION;
+    }
+
+  eth.h_proto = htons(ETH_P_IP);
+  memcpy(&eth.h_source, &src, 6);
+  memcpy(&eth.h_dest, &dst, 6);
+
+  ret = bpf_skb_store_bytes(skb, 0, &eth, sizeof(eth), 0);
+  if(ret < 0) {
+    printk("skb_store_bytes failed: %d\n", ret);
+    return ERROR_ACTION;
+  }
+
+  return bpf_redirect(ifindex, 0);
+}
+
 
 SEC("ipip")
 int do_ipip(struct __sk_buff * skb)
@@ -143,5 +174,29 @@ int do_gre_ip_encap(struct __sk_buff *skb)
   printk("finish gre encap skb:%x\n", (int) skb->data);
   return __ipv4(skb, pkt_len + sizeof(struct gre_base_hdr));
 }
+
+SEC("greipether")
+
+int do_gre_ip_ether_redirect(struct __sk_buff *skb)
+{
+  int pkt_len = get_tot_len_from_ipv4(skb);
+  if (pkt_len == -1) {
+    printk("cannot read packet length from ipv4\n");
+    return ERROR_ACTION;
+  }
+  int ret = __gre(skb);
+  if(ret != BPF_OK){
+    printk("Aborted before ip encapping\n");
+    return ERROR_ACTION;
+  }
+  ret =  __ipv4(skb, pkt_len + sizeof(struct gre_base_hdr));
+  if(ret != BPF_OK)
+    {
+      printk("Aborted before adding ether header\n");
+      return ERROR_ACTION;
+    }
+  return __ether(skb);
+}
+
 
 char _license[] SEC("license") = "GPL";
