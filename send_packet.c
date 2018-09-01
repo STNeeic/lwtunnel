@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <sys/socket.h>
 #include <arpa/inet.h>
+#include <linux/ip.h>
+#include <linux/udp.h>
 #include <string.h>
 #include <stdlib.h>
 
@@ -34,7 +36,8 @@ int main(int argc, char* argv[]) {
 
   const char* address = argv[1];
   int port = atoi(argv[2]);
-  int packet_size = atoi(argv[3]);
+  int packet_size = atoi(argv[3]) - sizeof(struct iphdr) - sizeof(struct udphdr);
+  int full_size = atoi(argv[3]);
   int send_num = atoi(argv[4]);
   struct sockaddr dst_addr;
 
@@ -42,8 +45,8 @@ int main(int argc, char* argv[]) {
   if(sockaddr_init(address,port,&dst_addr) != 0) return 1;
 
 
-  if(packet_size < 0 || packet_size > 1450) {
-    fprintf(stderr, "packet_size must larger than 0 and smaller than 1450\n");
+  if(packet_size < 0 || packet_size > 1500) {
+    fprintf(stderr, "packet_size must larger than 0 and smaller than 1500\n");
     return 1;
   }
   if(send_num < 0) {
@@ -60,7 +63,7 @@ int main(int argc, char* argv[]) {
   char * buf = malloc(sizeof(char) * packet_size);
 
   fprintf(stderr, "start sending packets...\n");
-  fprintf(stderr, "packet size:%d\tsend_num:%d\n", packet_size, send_num);
+  fprintf(stderr, "packet size:%d(payload %d byte)\tsend_num:%d\n", full_size,packet_size, send_num);
   for(int i = 0; i < send_num; i++) {
     int result = sendto(sock, buf, packet_size, 0, &dst_addr, sizeof(dst_addr));
     if(result != packet_size) {

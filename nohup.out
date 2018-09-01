@@ -1,0 +1,2091 @@
+dst_addr:192.168.6.51 send_num:20000000
+dst_addr:192.168.6.51 send_num:40000000
+[Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 68.597463 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:19928156725
+packet_size: 512 send_num: 40000000
+server	 bps: 290508655.181606 pps: 567399.717152
+client	 bps: 298553315.302637 pps: 583111.943950
+0 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 70.583416 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20460251701
+packet_size: 512 send_num: 40000000
+server	 bps: 289873356.384452 pps: 566158.899188
+client	 bps: 290153143.055587 pps: 566705.357530
+1 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 71.647861 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20480000053
+packet_size: 512 send_num: 40000000
+server	 bps: 285842448.988114 pps: 558286.033180
+client	 bps: 285842448.248385 pps: 558286.031735
+2 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 68.877552 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20479982133
+packet_size: 512 send_num: 40000000
+server	 bps: 297338995.628068 pps: 580740.225836
+client	 bps: 297339255.030434 pps: 580740.732481
+3 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 69.852788 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20479920693
+packet_size: 512 send_num: 40000000
+server	 bps: 293186875.991263 pps: 572630.617170
+client	 bps: 293188011.336069 pps: 572632.834641
+4 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 78.463478 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20480000053
+packet_size: 512 send_num: 40000000
+server	 bps: 261013156.375760 pps: 509791.321046
+client	 bps: 261013155.700286 pps: 509791.319727
+5 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 70.421833 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20480000053
+packet_size: 512 send_num: 40000000
+server	 bps: 290818900.624186 pps: 568005.665282
+client	 bps: 290818899.871578 pps: 568005.663812
+6 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 74.133773 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20480000053
+packet_size: 512 send_num: 40000000
+server	 bps: 276257355.105884 pps: 539565.146691
+client	 bps: 276257354.390960 pps: 539565.145295
+7 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 72.685313 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20463764021
+packet_size: 512 send_num: 40000000
+server	 bps: 281539188.267649 pps: 549881.227085
+client	 bps: 281762561.853452 pps: 550317.503620
+8 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 76.039370 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20284510773
+packet_size: 512 send_num: 40000000
+server	 bps: 266763267.147006 pps: 521022.006146
+client	 bps: 269334162.026855 pps: 526043.285209
+9 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 77.516834 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20478957621
+packet_size: 512 send_num: 40000000
+server	 bps: 264187229.589382 pps: 515990.682792
+client	 bps: 264200676.720104 pps: 516016.946719
+10 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 67.170065 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20479790133
+packet_size: 512 send_num: 40000000
+server	 bps: 304894600.489072 pps: 595497.266580
+client	 bps: 304897724.901710 pps: 595503.368949
+11 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 66.998429 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20468674613
+packet_size: 512 send_num: 40000000
+server	 bps: 305509769.684301 pps: 596698.768915
+client	 bps: 305678809.274767 pps: 597028.924365
+12 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 69.408833 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20476534837
+packet_size: 512 send_num: 40000000
+server	 bps: 295013385.933171 pps: 576198.019401
+client	 bps: 295063309.881611 pps: 576295.527113
+13 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 69.506078 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20480000053
+packet_size: 512 send_num: 40000000
+server	 bps: 294650491.615999 pps: 575489.241437
+client	 bps: 294650490.853476 pps: 575489.239948
+14 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 74.350890 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20479965749
+packet_size: 512 send_num: 40000000
+server	 bps: 275450176.171395 pps: 537988.625335
+client	 bps: 275450636.838375 pps: 537989.525075
+15 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 71.386629 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20457332277
+packet_size: 512 send_num: 40000000
+server	 bps: 286570924.605503 pps: 559708.837120
+client	 bps: 286888459.181901 pps: 560329.021840
+16 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 69.887691 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20479903285
+packet_size: 512 send_num: 40000000
+server	 bps: 293040204.819472 pps: 572344.150038
+client	 bps: 293041588.682619 pps: 572346.852896
+17 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 71.583139 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20479798325
+packet_size: 512 send_num: 40000000
+server	 bps: 286098075.763344 pps: 558785.304225
+client	 bps: 286100893.116744 pps: 558790.806869
+18 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:147 # 512 73.380837 20480000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:20479946293
+packet_size: 512 send_num: 40000000
+server	 bps: 279091205.964304 pps: 545100.011649
+client	 bps: 279091937.858381 pps: 545101.441130
+19 \npacket 512 done
+[Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 71.007268 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40959934356
+packet_size: 1024 send_num: 40000000
+server	 bps: 576841434.823264 pps: 563321.713695
+client	 bps: 576842359.292009 pps: 563322.616496
+0 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 74.480972 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:39589763125
+packet_size: 1024 send_num: 40000000
+server	 bps: 531541977.258299 pps: 519083.962166
+client	 bps: 549939117.335902 pps: 537049.919273
+1 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 74.413070 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40959824949
+packet_size: 1024 send_num: 40000000
+server	 bps: 550438584.901819 pps: 537537.680568
+client	 bps: 550440937.324586 pps: 537539.977856
+2 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 75.368598 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40597089333
+packet_size: 1024 send_num: 40000000
+server	 bps: 538647267.035536 pps: 526022.721714
+client	 bps: 543462411.228613 pps: 530725.010965
+3 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 75.562299 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40867417141
+packet_size: 1024 send_num: 40000000
+server	 bps: 540844014.566047 pps: 528167.982975
+client	 bps: 542069266.579621 pps: 529364.518144
+4 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 72.915150 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40960000053
+packet_size: 1024 send_num: 40000000
+server	 bps: 561748827.959622 pps: 548582.839804
+client	 bps: 561748827.232749 pps: 548582.839094
+5 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 68.998146 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40960000053
+packet_size: 1024 send_num: 40000000
+server	 bps: 593639139.999501 pps: 579725.722656
+client	 bps: 593639139.231364 pps: 579725.721906
+6 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 76.214583 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40959800373
+packet_size: 1024 send_num: 40000000
+server	 bps: 537427336.878560 pps: 524831.383670
+client	 bps: 537429956.154192 pps: 524833.941557
+7 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 69.815386 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40585158709
+packet_size: 1024 send_num: 40000000
+server	 bps: 581321124.673005 pps: 567696.410813
+client	 bps: 586690160.246339 pps: 572939.609616
+8 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 72.838578 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:38502697013
+packet_size: 1024 send_num: 40000000
+server	 bps: 528603084.659341 pps: 516213.949863
+client	 bps: 562339369.118381 pps: 549159.540155
+9 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 71.264477 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40958915637
+packet_size: 1024 send_num: 40000000
+server	 bps: 574745193.695872 pps: 561274.603219
+client	 bps: 574760409.734011 pps: 561289.462631
+10 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 70.118593 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40899593269
+packet_size: 1024 send_num: 40000000
+server	 bps: 583291699.378509 pps: 569620.800174
+client	 bps: 584153193.148071 pps: 570462.102684
+11 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 71.391587 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40958426165
+packet_size: 1024 send_num: 40000000
+server	 bps: 573715025.623397 pps: 560268.579710
+client	 bps: 573737070.727956 pps: 560290.108133
+12 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 70.824412 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40960000053
+packet_size: 1024 send_num: 40000000
+server	 bps: 578331664.130159 pps: 564777.015752
+client	 bps: 578331663.381830 pps: 564777.015021
+13 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 74.394661 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40959777845
+packet_size: 1024 send_num: 40000000
+server	 bps: 550574158.070295 pps: 537670.076241
+client	 bps: 550577144.238886 pps: 537672.992421
+14 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 73.272506 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40957638709
+packet_size: 1024 send_num: 40000000
+server	 bps: 558976906.139937 pps: 545875.884902
+client	 bps: 559009132.293087 pps: 545907.355755
+15 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 69.153561 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40960000053
+packet_size: 1024 send_num: 40000000
+server	 bps: 592305001.516842 pps: 578422.853044
+client	 bps: 592305000.750431 pps: 578422.852295
+16 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 73.542189 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40960000053
+packet_size: 1024 send_num: 40000000
+server	 bps: 556959217.694758 pps: 543905.486030
+client	 bps: 556959216.974083 pps: 543905.485326
+17 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 74.428278 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40957639733
+packet_size: 1024 send_num: 40000000
+server	 bps: 550296753.244781 pps: 537399.173091
+client	 bps: 550328465.210494 pps: 537430.141807
+18 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1024 77.789065 40960000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:40959693877
+packet_size: 1024 send_num: 40000000
+server	 bps: 526548222.131221 pps: 514207.248175
+client	 bps: 526552157.427268 pps: 514211.091238
+19 \npacket 1024 done
+[Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 76.688648 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:57494773553
+packet_size: 1500 send_num: 40000000
+server	 bps: 749716875.345097 pps: 499811.250230
+client	 bps: 782384375.846605 pps: 521589.583898
+0 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 75.571814 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59286852053
+packet_size: 1500 send_num: 40000000
+server	 bps: 784510109.192297 pps: 523006.739462
+client	 bps: 793946801.382854 pps: 529297.867589
+1 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 81.645149 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59983777553
+packet_size: 1500 send_num: 40000000
+server	 bps: 734688812.350627 pps: 489792.541567
+client	 bps: 734887506.911158 pps: 489925.004607
+2 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 76.938159 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59998726553
+packet_size: 1500 send_num: 40000000
+server	 bps: 779830546.153307 pps: 519887.030769
+client	 bps: 779847097.719092 pps: 519898.065146
+3 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 80.966271 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59835312053
+packet_size: 1500 send_num: 40000000
+server	 bps: 739015287.649841 pps: 492676.858433
+client	 bps: 741049319.166496 pps: 494032.879444
+4 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 76.147004 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59528497553
+packet_size: 1500 send_num: 40000000
+server	 bps: 781757579.759803 pps: 521171.719840
+client	 bps: 787949582.363083 pps: 525299.721575
+5 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 75.069168 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59993833553
+packet_size: 1500 send_num: 40000000
+server	 bps: 799180744.257083 pps: 532787.162838
+client	 bps: 799262887.794361 pps: 532841.925196
+6 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 77.450311 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59621862053
+packet_size: 1500 send_num: 40000000
+server	 bps: 769807910.170948 pps: 513205.273447
+client	 bps: 774690239.784834 pps: 516460.159857
+7 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 78.641215 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59999605553
+packet_size: 1500 send_num: 40000000
+server	 bps: 762953694.865981 pps: 508635.796577
+client	 bps: 762958710.645556 pps: 508639.140430
+8 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 75.141256 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59947597553
+packet_size: 1500 send_num: 40000000
+server	 bps: 797798715.967697 pps: 531865.810645
+client	 bps: 798496101.795264 pps: 532330.734530
+9 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 76.788542 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:57368781053
+packet_size: 1500 send_num: 40000000
+server	 bps: 747100798.619148 pps: 498067.199079
+client	 bps: 781366574.195405 pps: 520911.049464
+10 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 77.942253 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59842350053
+packet_size: 1500 send_num: 40000000
+server	 bps: 767778037.581233 pps: 511852.025054
+client	 bps: 769800688.209513 pps: 513200.458806
+11 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 76.693389 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59974095053
+packet_size: 1500 send_num: 40000000
+server	 bps: 781998237.853330 pps: 521332.158569
+client	 bps: 782336010.734902 pps: 521557.340490
+12 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 76.365632 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59999755553
+packet_size: 1500 send_num: 40000000
+server	 bps: 785690551.909529 pps: 523793.701273
+client	 bps: 785693752.917543 pps: 523795.835278
+13 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 71.652333 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59999113553
+packet_size: 1500 send_num: 40000000
+server	 bps: 837364410.074407 pps: 558242.940050
+client	 bps: 837376781.576672 pps: 558251.187718
+14 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 73.608157 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59999863553
+packet_size: 1500 send_num: 40000000
+server	 bps: 815125198.053797 pps: 543416.798703
+client	 bps: 815127051.747811 pps: 543418.034499
+15 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 75.091816 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59998879553
+packet_size: 1500 send_num: 40000000
+server	 bps: 799006905.799162 pps: 532671.270533
+client	 bps: 799021826.825975 pps: 532681.217884
+16 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 75.757556 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59973244553
+packet_size: 1500 send_num: 40000000
+server	 bps: 791647034.561147 pps: 527764.689707
+client	 bps: 792000206.553654 pps: 528000.137702
+17 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 76.757885 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59998399553
+packet_size: 1500 send_num: 40000000
+server	 bps: 781657800.407085 pps: 521105.200271
+client	 bps: 781678650.994618 pps: 521119.100663
+18 [Dec 27 2017] test_packet.c:353 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:147 # 1500 72.182963 60000000000
+
+[Dec 27 2017] test_packet.c:154 # server_byte:59999853053
+packet_size: 1500 send_num: 40000000
+server	 bps: 831219037.835840 pps: 554146.025224
+client	 bps: 831221073.593225 pps: 554147.382395
+19 \npacket 1500 done
+dst_addr:192.168.6.51 send_num:40000000
+[Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 73.003900 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4349889461
+packet_size: 128 send_num: 40000000
+server	 bps: 59584343.589863 pps: 465502.684296
+client	 bps: 70133239.457070 pps: 547915.933258
+0 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 71.920619 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4907727925
+packet_size: 128 send_num: 40000000
+server	 bps: 68238121.323733 pps: 533110.322842
+client	 bps: 71189598.632348 pps: 556168.739315
+1 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 76.236056 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4952267317
+packet_size: 128 send_num: 40000000
+server	 bps: 64959647.400962 pps: 507497.245320
+client	 bps: 67159822.643501 pps: 524686.114402
+2 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 77.100799 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4543931701
+packet_size: 128 send_num: 40000000
+server	 bps: 58934949.571664 pps: 460429.293529
+client	 bps: 66406575.112146 pps: 518801.368064
+3 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 77.532893 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4949468469
+packet_size: 128 send_num: 40000000
+server	 bps: 63837015.200761 pps: 498726.681256
+client	 bps: 66036488.539129 pps: 515910.066712
+4 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 75.659382 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4866898997
+packet_size: 128 send_num: 40000000
+server	 bps: 64326443.969632 pps: 502550.343513
+client	 bps: 67671713.205376 pps: 528685.259417
+5 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 77.538901 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4686740789
+packet_size: 128 send_num: 40000000
+server	 bps: 60443735.061450 pps: 472216.680168
+client	 bps: 66031371.788465 pps: 515870.092097
+6 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 67.263465 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4916639029
+packet_size: 128 send_num: 40000000
+server	 bps: 73095238.685667 pps: 571056.552232
+client	 bps: 76118588.300499 pps: 594676.471098
+7 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 73.424067 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4932215477
+packet_size: 128 send_num: 40000000
+server	 bps: 67174370.455398 pps: 524799.769183
+client	 bps: 69731904.118033 pps: 544780.500922
+8 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 77.728678 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4869749429
+packet_size: 128 send_num: 40000000
+server	 bps: 62650614.345969 pps: 489457.924578
+client	 bps: 65870154.127670 pps: 514610.579122
+9 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 70.213473 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4866923573
+packet_size: 128 send_num: 40000000
+server	 bps: 69316092.269072 pps: 541531.970852
+client	 bps: 72920477.812001 pps: 569691.232906
+10 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 76.415370 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:5035402037
+packet_size: 128 send_num: 40000000
+server	 bps: 65895146.971087 pps: 514805.835712
+client	 bps: 67002227.431471 pps: 523454.901808
+11 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 78.528808 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4918341813
+packet_size: 128 send_num: 40000000
+server	 bps: 62631051.435290 pps: 489305.089338
+client	 bps: 65199003.147991 pps: 509367.212094
+12 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 76.814049 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4833581749
+packet_size: 128 send_num: 40000000
+server	 bps: 62925751.368737 pps: 491607.432568
+client	 bps: 66654473.584643 pps: 520738.074880
+13 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 77.555894 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:5063951413
+packet_size: 128 send_num: 40000000
+server	 bps: 65294217.522655 pps: 510111.074396
+client	 bps: 66016903.886119 pps: 515757.061610
+14 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 74.902000 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4785636149
+packet_size: 128 send_num: 40000000
+server	 bps: 63891967.490855 pps: 499155.996022
+client	 bps: 68355985.153934 pps: 534031.134015
+15 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 73.753679 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4893731509
+packet_size: 128 send_num: 40000000
+server	 bps: 66352371.506783 pps: 518377.902397
+client	 bps: 69420265.801249 pps: 542345.826572
+16 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 75.427233 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4819881269
+packet_size: 128 send_num: 40000000
+server	 bps: 63901074.947294 pps: 499227.148026
+client	 bps: 67879992.362971 pps: 530312.440336
+17 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 71.080915 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4557635765
+packet_size: 128 send_num: 40000000
+server	 bps: 64118979.968111 pps: 500929.531001
+client	 bps: 72030586.550553 pps: 562738.957426
+18 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=2
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 76 40000000
+
+[Dec 27 2017] test_packet.c:157 # 128 70.411073 5120000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:4333390261
+packet_size: 128 send_num: 40000000
+server	 bps: 61544158.842743 pps: 480813.740959
+client	 bps: 72715835.476616 pps: 568092.464661
+19 \npacket 128 done
+[Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 76.327934 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9747790645
+packet_size: 256 send_num: 40000000
+server	 bps: 127709347.471661 pps: 498864.638561
+client	 bps: 134157961.094558 pps: 524054.535526
+0 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 76.238950 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9954958901
+packet_size: 256 send_num: 40000000
+server	 bps: 130575760.828291 pps: 510061.565736
+client	 bps: 134314546.567076 pps: 524666.197528
+1 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 74.795144 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9423077685
+packet_size: 256 send_num: 40000000
+server	 bps: 125985153.327601 pps: 492129.505186
+client	 bps: 136907283.713499 pps: 534794.077006
+2 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 75.431281 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9431050805
+packet_size: 256 send_num: 40000000
+server	 bps: 125028379.207825 pps: 488392.106281
+client	 bps: 135752699.201807 pps: 530283.981257
+3 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 75.583986 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9550590517
+packet_size: 256 send_num: 40000000
+server	 bps: 126357328.085343 pps: 493583.312833
+client	 bps: 135478433.222614 pps: 529212.629776
+4 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 77.708725 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9351873589
+packet_size: 256 send_num: 40000000
+server	 bps: 120345219.780662 pps: 470098.514768
+client	 bps: 131774134.757712 pps: 514742.713897
+5 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 73.639529 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9707551541
+packet_size: 256 send_num: 40000000
+server	 bps: 131825280.156260 pps: 514942.500610
+client	 bps: 139055750.886185 pps: 543186.526899
+6 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 74.673039 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9881256501
+packet_size: 256 send_num: 40000000
+server	 bps: 132326963.430536 pps: 516902.200901
+client	 bps: 137131153.855945 pps: 535668.569750
+7 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 74.399734 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9877140277
+packet_size: 256 send_num: 40000000
+server	 bps: 132757736.432230 pps: 518584.907938
+client	 bps: 137634900.683919 pps: 537636.330797
+8 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 75.826055 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9489664909
+packet_size: 256 send_num: 40000000
+server	 bps: 125150450.053085 pps: 488868.945520
+client	 bps: 135045928.474058 pps: 527523.158102
+9 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 72.576032 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9023585333
+packet_size: 256 send_num: 40000000
+server	 bps: 124332855.962696 pps: 485675.218604
+client	 bps: 141093412.216309 pps: 551146.141470
+10 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 76.887927 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9646085941
+packet_size: 256 send_num: 40000000
+server	 bps: 125456444.429826 pps: 490064.236054
+client	 bps: 133180856.859361 pps: 520237.722107
+11 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 76.622079 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9542574133
+packet_size: 256 send_num: 40000000
+server	 bps: 124540788.471688 pps: 486487.454968
+client	 bps: 133642941.220637 pps: 522042.739143
+12 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 71.156913 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:8518569269
+packet_size: 256 send_num: 40000000
+server	 bps: 119715273.047329 pps: 467637.785341
+client	 bps: 143907310.875052 pps: 562137.933106
+13 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 75.994018 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9332526645
+packet_size: 256 send_num: 40000000
+server	 bps: 122806069.354038 pps: 479711.208414
+client	 bps: 134747448.147827 pps: 526357.219327
+14 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 77.908288 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9619732789
+packet_size: 256 send_num: 40000000
+server	 bps: 123475088.927638 pps: 482324.566124
+client	 bps: 131436593.754955 pps: 513424.194355
+15 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 71.710819 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9874406709
+packet_size: 256 send_num: 40000000
+server	 bps: 137697586.594291 pps: 537881.197634
+client	 bps: 142795747.458971 pps: 557795.888512
+16 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 74.925816 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9848450613
+packet_size: 256 send_num: 40000000
+server	 bps: 131442687.430992 pps: 513447.997777
+client	 bps: 136668514.894786 pps: 533861.386308
+17 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 78.001478 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9392832309
+packet_size: 256 send_num: 40000000
+server	 bps: 120418645.259517 pps: 470385.333045
+client	 bps: 131279563.702626 pps: 512810.795713
+18 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 204 40000000
+
+[Dec 27 2017] test_packet.c:157 # 256 73.329346 10240000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:9297071157
+packet_size: 256 send_num: 40000000
+server	 bps: 126785136.703660 pps: 495254.440249
+client	 bps: 139643956.459123 pps: 545484.204918
+19 \npacket 256 done
+[Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 78.079631 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:18709531701
+packet_size: 512 send_num: 40000000
+server	 bps: 239621159.339239 pps: 468010.076834
+client	 bps: 262296321.559204 pps: 512297.503045
+0 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 78.065235 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:16265286197
+packet_size: 512 send_num: 40000000
+server	 bps: 208355053.270512 pps: 406943.463419
+client	 bps: 262344691.590309 pps: 512391.975762
+1 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 75.545656 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:16554591285
+packet_size: 512 send_num: 40000000
+server	 bps: 219133596.311613 pps: 427995.305296
+client	 bps: 271094343.267070 pps: 529481.139193
+2 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 77.075519 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:19298189365
+packet_size: 512 send_num: 40000000
+server	 bps: 250380271.393307 pps: 489023.967565
+client	 bps: 265713423.220673 pps: 518971.529728
+3 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 79.160494 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:18414287925
+packet_size: 512 send_num: 40000000
+server	 bps: 232619669.162247 pps: 454335.291333
+client	 bps: 258714908.979724 pps: 505302.556601
+4 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 77.941500 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:18581285429
+packet_size: 512 send_num: 40000000
+server	 bps: 238400408.370380 pps: 465625.797598
+client	 bps: 262761173.444186 pps: 513205.416883
+5 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 76.965268 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:20004090421
+packet_size: 512 send_num: 40000000
+server	 bps: 259910618.657236 pps: 507637.927065
+client	 bps: 266094051.670164 pps: 519714.944668
+6 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 77.857074 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:19811312181
+packet_size: 512 send_num: 40000000
+server	 bps: 254457445.716493 pps: 496987.198665
+client	 bps: 263046104.198573 pps: 513761.922263
+7 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 80.696437 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:20054317621
+packet_size: 512 send_num: 40000000
+server	 bps: 248515527.655825 pps: 485381.889953
+client	 bps: 253790635.142912 pps: 495684.834264
+8 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 76.328464 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:19777165877
+packet_size: 512 send_num: 40000000
+server	 bps: 259106037.781659 pps: 506066.480042
+client	 bps: 268314059.090721 pps: 524050.896662
+9 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 77.714741 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:19593131061
+packet_size: 512 send_num: 40000000
+server	 bps: 252116018.259650 pps: 492414.098163
+client	 bps: 263527867.898318 pps: 514702.866989
+10 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 75.964924 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:18514923061
+packet_size: 512 send_num: 40000000
+server	 bps: 243729896.458529 pps: 476034.954021
+client	 bps: 269598110.833363 pps: 526558.810221
+11 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 79.345763 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:19200071221
+packet_size: 512 send_num: 40000000
+server	 bps: 241979791.926634 pps: 472616.781107
+client	 bps: 258110820.611808 pps: 504122.696507
+12 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 76.035463 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:20433827381
+packet_size: 512 send_num: 40000000
+server	 bps: 268740750.365392 pps: 524884.278057
+client	 bps: 269348001.471366 pps: 526070.315374
+13 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 75.480825 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:18178448949
+packet_size: 512 send_num: 40000000
+server	 bps: 240835324.057468 pps: 470381.492300
+client	 bps: 271327188.063988 pps: 529935.914187
+14 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 78.641936 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:18459381813
+packet_size: 512 send_num: 40000000
+server	 bps: 234726950.427568 pps: 458451.075054
+client	 bps: 260420852.304552 pps: 508634.477157
+15 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 75.409050 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:19264163381
+packet_size: 512 send_num: 40000000
+server	 bps: 255462220.794454 pps: 498949.649989
+client	 bps: 271585439.678659 pps: 530440.311872
+16 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 74.322077 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:18490736693
+packet_size: 512 send_num: 40000000
+server	 bps: 248791979.979246 pps: 485921.835897
+client	 bps: 275557422.863734 pps: 538198.091531
+17 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 73.841898 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:19456445493
+packet_size: 512 send_num: 40000000
+server	 bps: 263487884.520520 pps: 514624.774454
+client	 bps: 277349317.321177 pps: 541697.885393
+18 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 460 40000000
+
+[Dec 27 2017] test_packet.c:157 # 512 71.308436 20480000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:16436700213
+packet_size: 512 send_num: 40000000
+server	 bps: 230501482.503417 pps: 450198.208014
+client	 bps: 287203045.653673 pps: 560943.448542
+19 \npacket 512 done
+[Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 79.509845 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:39576710197
+packet_size: 1024 send_num: 40000000
+server	 bps: 497758613.376746 pps: 486092.395876
+client	 bps: 515156330.640564 pps: 503082.354141
+0 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 77.959389 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40444942389
+packet_size: 1024 send_num: 40000000
+server	 bps: 518795015.043024 pps: 506635.756878
+client	 bps: 525401757.574062 pps: 513087.653881
+1 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 79.531348 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40761335861
+packet_size: 1024 send_num: 40000000
+server	 bps: 512519112.099043 pps: 500506.945409
+client	 bps: 515017047.114554 pps: 502946.335073
+2 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 79.066870 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40521826357
+packet_size: 1024 send_num: 40000000
+server	 bps: 512500701.709831 pps: 500488.966514
+client	 bps: 518042512.622543 pps: 505900.891233
+3 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 77.889731 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40800574517
+packet_size: 1024 send_num: 40000000
+server	 bps: 523824822.517361 pps: 511547.678240
+client	 bps: 525871632.551921 pps: 513546.516164
+4 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 80.203629 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40828446773
+packet_size: 1024 send_num: 40000000
+server	 bps: 509059842.828309 pps: 497128.752762
+client	 bps: 510700083.159579 pps: 498730.549961
+5 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 79.191590 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:39460400181
+packet_size: 1024 send_num: 40000000
+server	 bps: 498290287.908097 pps: 486611.609285
+client	 bps: 517226639.849004 pps: 505104.140478
+6 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 79.458485 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:37534102581
+packet_size: 1024 send_num: 40000000
+server	 bps: 472373750.657340 pps: 461302.490876
+client	 bps: 515489314.954847 pps: 503407.534136
+7 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 77.800567 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40954695733
+packet_size: 1024 send_num: 40000000
+server	 bps: 526406134.456578 pps: 514068.490680
+client	 bps: 526474312.198779 pps: 514135.070507
+8 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 82.565020 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40444410933
+packet_size: 1024 send_num: 40000000
+server	 bps: 489849223.472604 pps: 478368.382297
+client	 bps: 496093866.385547 pps: 484466.666392
+9 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 81.416504 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40458961973
+packet_size: 1024 send_num: 40000000
+server	 bps: 496938089.763717 pps: 485291.103285
+client	 bps: 503092100.343685 pps: 491300.879242
+10 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 80.184779 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40940239925
+packet_size: 1024 send_num: 40000000
+server	 bps: 510573707.823027 pps: 498607.136546
+client	 bps: 510820139.567885 pps: 498847.792547
+11 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 79.678866 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40829452341
+packet_size: 1024 send_num: 40000000
+server	 bps: 512425118.362001 pps: 500415.154650
+client	 bps: 514063541.014753 pps: 502015.176772
+12 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 76.891166 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40482611253
+packet_size: 1024 send_num: 40000000
+server	 bps: 526492357.431542 pps: 514152.692804
+client	 bps: 532700986.742742 pps: 520215.807366
+13 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 79.996481 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:39476257845
+packet_size: 1024 send_num: 40000000
+server	 bps: 493474929.790974 pps: 481909.111124
+client	 bps: 512022522.590712 pps: 500021.994717
+14 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 80.128371 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40225128501
+packet_size: 1024 send_num: 40000000
+server	 bps: 502008564.494591 pps: 490242.738764
+client	 bps: 511179741.817040 pps: 499198.966618
+15 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 80.158408 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40800844853
+packet_size: 1024 send_num: 40000000
+server	 bps: 509002684.447026 pps: 497072.934030
+client	 bps: 510988192.280465 pps: 499011.906524
+16 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 79.165779 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40813508661
+packet_size: 1024 send_num: 40000000
+server	 bps: 515544837.384850 pps: 503461.755259
+client	 bps: 517395275.046810 pps: 505268.823288
+17 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 80.948514 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40649967669
+packet_size: 1024 send_num: 40000000
+server	 bps: 502170647.246224 pps: 490401.022701
+client	 bps: 506000641.345930 pps: 494141.251314
+18 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=3
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 972 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1024 79.883818 40960000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:40887985205
+packet_size: 1024 send_num: 40000000
+server	 bps: 511843152.076181 pps: 499846.828199
+client	 bps: 512744646.231105 pps: 500727.193585
+19 \npacket 1024 done
+[Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 81.036601 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59684764553
+packet_size: 1500 send_num: 40000000
+server	 bps: 736516139.824275 pps: 491010.759883
+client	 bps: 740406177.697409 pps: 493604.118465
+0 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 80.585559 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59757975053
+packet_size: 1500 send_num: 40000000
+server	 bps: 741546944.571049 pps: 494364.629714
+client	 bps: 744550273.579414 pps: 496366.849053
+1 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 83.988294 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59192202053
+packet_size: 1500 send_num: 40000000
+server	 bps: 704767286.414938 pps: 469844.857610
+client	 bps: 714385268.975698 pps: 476256.845984
+2 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 81.764183 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59912703053
+packet_size: 1500 send_num: 40000000
+server	 bps: 732749975.047143 pps: 488499.983365
+client	 bps: 733817642.377714 pps: 489211.761585
+3 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 82.316624 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59790600053
+packet_size: 1500 send_num: 40000000
+server	 bps: 726349030.701259 pps: 484232.687134
+client	 bps: 728892866.160303 pps: 485928.577440
+4 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 81.680039 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59914210553
+packet_size: 1500 send_num: 40000000
+server	 bps: 733523285.328010 pps: 489015.523552
+client	 bps: 734573596.371569 pps: 489715.730914
+5 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 80.273824 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59836921553
+packet_size: 1500 send_num: 40000000
+server	 bps: 745410129.620834 pps: 496940.086414
+client	 bps: 747441656.697456 pps: 498294.437798
+6 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 81.298657 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59764842053
+packet_size: 1500 send_num: 40000000
+server	 bps: 735127052.012680 pps: 490084.701342
+client	 bps: 738019571.467214 pps: 492013.047645
+7 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 80.799197 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59882962553
+packet_size: 1500 send_num: 40000000
+server	 bps: 741133139.639989 pps: 494088.759760
+client	 bps: 742581637.290281 pps: 495054.424860
+8 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 78.936694 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59711944553
+packet_size: 1500 send_num: 40000000
+server	 bps: 756453577.255212 pps: 504302.384837
+client	 bps: 760102772.989201 pps: 506735.181993
+9 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 81.038867 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59710326053
+packet_size: 1500 send_num: 40000000
+server	 bps: 736810968.161734 pps: 491207.312108
+client	 bps: 740385474.540260 pps: 493590.316360
+10 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 81.816345 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59864320553
+packet_size: 1500 send_num: 40000000
+server	 bps: 731691455.454286 pps: 487794.303636
+client	 bps: 733349797.036277 pps: 488899.864691
+11 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 80.755441 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59779545053
+packet_size: 1500 send_num: 40000000
+server	 bps: 740254084.588554 pps: 493502.723059
+client	 bps: 742983992.868047 pps: 495322.661912
+12 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 82.766042 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59729424053
+packet_size: 1500 send_num: 40000000
+server	 bps: 721665825.858871 pps: 481110.550573
+client	 bps: 724934992.058700 pps: 483289.994706
+13 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 78.934329 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59947245053
+packet_size: 1500 send_num: 40000000
+server	 bps: 759457207.180414 pps: 506304.804787
+client	 bps: 760125546.896079 pps: 506750.364597
+14 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 80.805327 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:57965716553
+packet_size: 1500 send_num: 40000000
+server	 bps: 717350188.472104 pps: 478233.458981
+client	 bps: 742525304.055759 pps: 495016.869371
+15 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 83.803046 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59934457553
+packet_size: 1500 send_num: 40000000
+server	 bps: 715182328.253319 pps: 476788.218836
+client	 bps: 715964429.264302 pps: 477309.619510
+16 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 83.943399 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59807239553
+packet_size: 1500 send_num: 40000000
+server	 bps: 712471025.303610 pps: 474980.683536
+client	 bps: 714767339.835739 pps: 476511.559890
+17 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 80.641734 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:59986239053
+packet_size: 1500 send_num: 40000000
+server	 bps: 743860977.158552 pps: 495907.318106
+client	 bps: 744031620.153406 pps: 496021.080102
+18 [Dec 27 2017] test_packet.c:363 # UDP_MODE
+[Dec 27 2017] test_packet.c:41 # digits=4
+
+[Dec 27 2017] test_packet.c:41 # digits=8
+
+[Dec 27 2017] test_packet.c:99 # send 1448 40000000
+
+[Dec 27 2017] test_packet.c:157 # 1500 80.730474 60000000000
+
+[Dec 27 2017] test_packet.c:164 # server_byte:58921245053
+packet_size: 1500 send_num: 40000000
+server	 bps: 729851345.267711 pps: 486567.563512
+client	 bps: 743213770.799859 pps: 495475.847200
+19 \npacket 1500 done
